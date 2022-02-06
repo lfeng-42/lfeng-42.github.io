@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Lin Feng's blog",
+    "description": "Recent content on Lin Feng's blog",
+    "home_page_url": "https://lfeng-42.github.io/",
+    "feed_url": "https://lfeng-42.github.io/index.json",
+    "language": "en-US",
+    "icon": "https://lfeng-42.github.io/apple-touch-icon.png",
+    "favicon": "https://lfeng-42.github.io/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Ling Feng",
+            "url": "https://lfeng-42.github.io/"
+        }
+    ],
+    "items": [
+        ]
+}
